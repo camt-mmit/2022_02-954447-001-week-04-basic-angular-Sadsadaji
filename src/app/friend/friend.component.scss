@@ -1,0 +1,24 @@
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 50%;
+  padding: 3%;
+}
+table,
+th,
+td,
+tr {
+  border: 1px solid black;
+}
+h2 {
+  margin-left: 500px;
+}
+h3 {
+  text-align: center;
+}
+a {
+  color: blue;
+  text-decoration: none;
+  border: 1px solid blue;
+  border-radius: 20px;
+}
